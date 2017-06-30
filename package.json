@@ -1,6 +1,6 @@
 {
   "name": "flowchat-map-i18n",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Flowchat i18n output mapping",
   "main": "lib/index.js",
   "scripts": {
